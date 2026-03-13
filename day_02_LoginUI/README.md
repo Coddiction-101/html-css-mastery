@@ -31,26 +31,20 @@ This project focuses on building reusable UI components, improving layout thinki
 ## ✨ Features Implemented
 
 ✔ Centered login card layout
+
 ✔ Clean form UI (Email + Password fields)
+
 ✔ Input focus states for better UX
+
 ✔ Social login buttons with icons
+
 ✔ Divider using CSS pseudo-elements
+
 ✔ Hover micro-interactions
+
 ✔ Responsive layout for smaller screens
+
 ✔ Modern UI spacing and visual hierarchy
-
----
-
-## 📂 Project Structure
-
-```
-day_02_LoginUI
-│
-├── index.html
-├── style.css
-├── preview.png
-└── README.md
-```
 
 ---
 
