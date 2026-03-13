@@ -6,12 +6,13 @@ A collection of UI components I build daily to improve my frontend development s
 
 ## 📚 Projects
 
-| Day | Project | Live Demo |
-|----|----|----|
-| Day 1 | Feature Grid Section | [Live](https://01-grid-layout.netlify.app/) |
-| Day 2 | Login Form UI | [n/a]() |
-| Day 3 | Navbar Component | [n/a]() |
+## UI Practice Projects
 
+| Day | Component | Live Demo |
+|----|----|----|
+| Day 01 | Feature Grid Layout | Live |
+| Day 02 | Login UI | Coming Soon |
+| Day 03 | Navbar | Coming Soon |
 ---
 
 ## 🛠 Tech Stack
