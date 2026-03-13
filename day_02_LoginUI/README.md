@@ -14,7 +14,7 @@ This project focuses on building reusable UI components, improving layout thinki
 
 ## 📸 Preview
 
-![Login UI Preview](preview.png)
+![Login UI Preview](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_02_LoginUI/loginui.png)
 
 ---
 
