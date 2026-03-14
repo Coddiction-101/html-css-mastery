@@ -1,1 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
 
+body {
+    background: #f5f6f8;
+    padding: 60px 20px;
+}
+
+.pricing-section {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 50px;
+}
+
+.pricing-section h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.pricing-section p {
+    color: #666;
+}
+
+.pricing-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+/* Card */
+
+.card {
+    width: 300px;
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+}
+
+.featured {
+    transform: scale(1.05);
+    background: #f9fafb;
+}
+
+/* Badge */
+
+.badge {
+    display: inline-block;
+    background: #f1f1f1;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.price-box {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.price-box span {
+    font-size: 36px;
+}
+
+.description {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+/* Button */
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #222;
+}
+
+/* Features */
+
+.features {
+    list-style: none;
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.features li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 10px 0;
+}
+
+.features i {
+    color: #22c55e;
+}
