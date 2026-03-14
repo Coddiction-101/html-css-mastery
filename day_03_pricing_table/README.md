@@ -24,7 +24,9 @@ Key areas of focus:
 
 ![Pricing Cards UI](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_03_pricing_table/pricing-cards.png)
 
+[Demo](https://3-pricing-cards.netlify.app/)
 ---
+
 
 ## 🛠 Technologies Used
 
